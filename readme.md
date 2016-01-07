@@ -1,6 +1,6 @@
 # Instructions
 
-Fork this project, spend a couple hours on the tasks outlined below, and then send me the link to your GitHub repository.
+Fork this project, spend a couple hours on the tasks outlined below, and then send me the link to your GitHub repository. You don't need to complete all the tasks. Just make some decent progress so that we can have something to talk about.
 
 ## Tasks
 
@@ -12,11 +12,11 @@ Fork this project, spend a couple hours on the tasks outlined below, and then se
 
 ## Mockups
 
-![alt tag](https://raw.github.com/mmlin/buynow/main/readme/1-pitch.png)
+![alt tag](https://raw.githubusercontent.com/mmlin/buynow/master/readme/1-pitch.png)
 
-![alt tag](https://raw.github.com/mmlin/buynow/main/readme/2-payment.png)
+![alt tag](https://raw.githubusercontent.com/mmlin/buynow/master/readme/2-payment.png)
 
-![alt tag](https://raw.github.com/mmlin/buynow/main/readme/3-thanks.png)
+![alt tag](https://raw.githubusercontent.com/mmlin/buynow/master/readme/3-thanks.png)
 
 ## Braintree Credentials
 
@@ -26,4 +26,4 @@ Log into the sandbox with username `bigtrial` and password `bigtrial1`.
 
 ## Admin App Credentials
 
-Log into the admin app with username `big` and password `big`.
+Log into the admin app with username `bigtrial` and password `bigtrial`.
