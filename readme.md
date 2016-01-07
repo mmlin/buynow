@@ -1,6 +1,6 @@
 # Instructions
 
-Fork this project, spend a couple hours on the tasks outlined below, and then send me the link to your GitHub repository. You don't need to complete all the tasks. Just make some decent progress so that we can have something to talk about.
+Fork this project, work on the tasks outlined below, and then send me the link to your GitHub repository. You don't need to complete all the tasks. Just send a couple hours, and make enough progress so we have something to talk about.
 
 ## Tasks
 
