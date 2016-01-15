@@ -1,6 +1,6 @@
 # Instructions
 
-Fork this project, work on the tasks outlined below, and then send me the link to your GitHub repository. You don't need to complete all the tasks. Just send a couple hours, and make enough progress so we have something to talk about.
+Work on the tasks outlined below, upload it to GitHub, and then send me the link to the GitHub repository. You don't need to complete all the tasks. Just send a couple hours, and make enough progress so we have something to talk about.
 
 ## Tasks
 
@@ -27,3 +27,7 @@ Log into the sandbox with username `bigtrial` and password `bigtrial1`.
 ## Admin App Credentials
 
 Log into the admin app with username `bigtrial` and password `bigtrial`.
+
+## Versions
+
+Python 3.5.0, Django 1.9.1
